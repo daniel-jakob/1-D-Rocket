@@ -1,0 +1,4 @@
+RocketName,HorseName,RocketMass,FuelMass,Thrust,BurnTime,Diameter
+BF_Rocket,BF Horse,2000,10000,170000,40,3
+Flubber,Derpy,1500,8000,150000,50,2.5
+Elsie,Nozomi,1500,7000,130000,60,2

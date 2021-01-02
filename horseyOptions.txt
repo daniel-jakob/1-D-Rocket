@@ -1,0 +1,4 @@
+HorseName HorseMass HorseLength FavFood
+BF-Horse 1000 3 Hay
+Derpy 500 2.5 Hay
+Nozomi 75 2 Hay
